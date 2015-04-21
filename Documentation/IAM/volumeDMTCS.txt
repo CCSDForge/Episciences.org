@@ -1,2 +1,0 @@
-http://api.archives-ouvertes.fr/search/?wt=xml&q=collCode_s:%22DMTCS%22&rows=500&fl=halId_s,volume_s,issue_s
-requetes volume numéro DMTCS 
